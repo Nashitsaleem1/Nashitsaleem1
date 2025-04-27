@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am a passionate **Python Developer** with experi
 - **Tools & Frameworks:** AutoCAD, Photoshop, VS Code, Google Cloud Platform (GCP)
 - **Other:** Digital Image Processing, Optical Communication, Data Analytics
 
-#🔨 Projects & Highlights
+# 🔨 Projects & Highlights
 
 ### 1. **AI Model for Quranic Text and Audio Recognition & Synchronization**  
 *Tools:* Python, Deep Learning, AI Algorithms  
@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I am a passionate **Python Developer** with experi
 *Use Case:* Developed a system for detecting melanoma regions in skin images.  
 *Outcome:* Assisted in early skin cancer detection.
 
-#🏆 Achievements & Publications
+# 🏆 Achievements & Publications
 
   Published in **2024 4th International Conference on Digital Futures and Transformative Technologies (ICoDT2)**  
   [Link to Paper](https://ieeexplore.ieee.org/document/10740243)
