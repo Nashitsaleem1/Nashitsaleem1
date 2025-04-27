@@ -1,5 +1,40 @@
 # 💫 About Me:
-Welcome to my GitHub profile! I am a passionate **Python Developer** with experience in automating industrial processes and implementing AI models. I specialize in creating solutions that enhance productivity and efficiency across various domains, including engineering, e-commerce, and healthcare.<br><br>## 🚀 About Me<br><br>I am a **resilient person** who aims to explore my potential in the field of **Engineering**. I'm eager to work in an environment that provides challenges and learning opportunities to enhance my skills.<br>
+Welcome to my GitHub profile! I am a passionate **Python Developer** with experience in automating industrial processes and implementing AI models. I specialize in creating solutions that enhance productivity and efficiency across various domains, including engineering, e-commerce, and healthcare.<br><br>
+
+### Key Skills & Technologies
+- **Programming Languages:** Python, MATLAB, SQL, Java, C++, R
+- **Machine Learning:** Keras, TensorFlow, Scikit-Learn, NLP
+- **Automation & Scripting:** Selenium, Playwright, VBA, Zapier
+- **Tools & Frameworks:** AutoCAD, Photoshop, VS Code, Google Cloud Platform (GCP)
+- **Other:** Digital Image Processing, Optical Communication, Data Analytics
+
+#🔨 Projects & Highlights
+
+### 1. **AI Model for Quranic Text and Audio Recognition & Synchronization**  
+*Tools:* Python, Deep Learning, AI Algorithms  
+*Use Case:* Developed an AI model to automate the synchronization of Quranic text with audio.  
+*Outcome:* Reduced manual editing time from 5 hours to 5 minutes.  
+[GitHub Link](https://github.com/Nashitsaleem1/FYP-AI-Model-for-Recognition-and-Synchronization-of-Quranic-Text-with-Audio)
+
+### 2. **AI-Based Knee Osteoarthritis Grading & Exercise Management**  
+*Tools:* Deep Learning, Python  
+*Use Case:* Implemented a classification model for knee osteoarthritis grading and exercise management.  
+*Outcome:* Provided a tool for users to monitor and improve their joint health.
+
+### 3. **Twitter Sentiment Scraper**  
+*Tools:* Python, Tweepy/Snscrape  
+*Use Case:* Collected over 30,000 tweets for sentiment analysis on brands.  
+*Outcome:* Created a dataset for brand perception analysis.
+
+### 4. **Melanoma Detection System**  
+*Tools:* MATLAB, Digital Image Processing  
+*Use Case:* Developed a system for detecting melanoma regions in skin images.  
+*Outcome:* Assisted in early skin cancer detection.
+
+#🏆 Achievements & Publications
+
+  Published in **2024 4th International Conference on Digital Futures and Transformative Technologies (ICoDT2)**  
+  [Link to Paper](https://ieeexplore.ieee.org/document/10740243)
 
 
 ## 🌐 Socials:
