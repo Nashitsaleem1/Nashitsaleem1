@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate **Python Developer** with experience in automating bussniess processes and implementing AI models. I specialize in creating solutions that enhance productivity and efficiency across various domains, including engineering, e-commerce, and healthcare.<br><br>
+I am a passionate **Engineer & Developer** with experience in automating bussniess processes and implementing AI models. I specialize in creating solutions that enhance productivity and efficiency across various domains, including engineering, e-commerce, and healthcare.<br><br>
 
 ### Key Skills & Technologies
 - **Programming Languages:** Python, MATLAB, SQL, Java, C++, R
