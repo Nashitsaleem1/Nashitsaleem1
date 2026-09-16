@@ -56,5 +56,27 @@ I am a passionate **Engineer & Developer** with experience in automating bussnie
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/nashitsaleem) 
 
+
+# Nashit Saleem
+
+AI & Automation Engineer and Python Developer based in Türkiye.
+
+I build AI agents, automation systems, web-scraping solutions and
+full-stack applications using Python, FastAPI, Django and React.
+
+Currently pursuing a Master's degree in Artificial Intelligence at
+Gebze Technical University, with research interests in machine learning,
+computer vision and AI applications in agriculture.
+
+## Expertise
+
+- AI agents and workflow automation
+- Python, FastAPI and Django
+- Machine learning and computer vision
+- Web scraping and data pipelines
+- React and full-stack development
+- OpenAI, LangChain, n8n, Make and Zapier
+
+
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
